@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of Mrs Mary Dawes at Great Bardfield in Essex, January 15. 1690. By Thomas Pritchard, M.A. and late rector of West-Tilbury in Essex. Imprimatur. C. Alston. Nov. 16. 1692.</title>
+            <author>Pritchard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55916</idno>
+            <idno type="STC">Wing P3526</idno>
+            <idno type="STC">ESTC R220530</idno>
+            <idno type="EEBO-CITATION">99831926</idno>
+            <idno type="PROQUEST">99831926</idno>
+            <idno type="VID">36393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2054:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of Mrs Mary Dawes at Great Bardfield in Essex, January 15. 1690. By Thomas Pritchard, M.A. and late rector of West-Tilbury in Essex. Imprimatur. C. Alston. Nov. 16. 1692.</title>
+                  <author>Pritchard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Walter Kettilby, at the Bishops-Head in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36393:1"/>
+            <p>A SERMON Preached at the FUNERAL OF M<hi rend="sup">rs</hi> Mary Dawes, AT <hi>Great Bardfield</hi> in <hi>Eſſex,</hi> January 15. 1690.</p>
+            <p>By THOMAS PRITCHARD, M. A. and late Rector of <hi>Weſt-Tilbury</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>Imprimatur. <hi>C. Alſton.</hi> Nov. 16. 1692.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhops-Head</hi> in St. <hi>Paul</hi>'s Church-Yard. 1693.</p>
+            <pb facs="tcp:36393:2"/>
+            <pb facs="tcp:36393:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36393:3"/>
+            <pb facs="tcp:36393:3"/>
+            <head>TO THE Lady Dawes.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THO ſuch was the modeſty of the Author, and ſo mean the Opinion which he had of all his own Performances, as would not ſuffer him conſent to the Publication of this Diſcourſe. Yet <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e great Uſefulneſs of the Subject, and the extraor<g ref="char:EOLhyphen"/>nary Virtue and Piety of the Perſon herein deſcribed, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe example may influence others to an imitation of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goodneſs and Perfections. The conſideration I ſay, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe things, has at length prevailed with thoſe, to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe diſpoſal this Diſcourſe was committed, to ſend it <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rth into the World, tho in a plain and unartificial <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſs.</p>
+            <p>I muſt beg your Pardon, Madam, if hereby I con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ibute any thing to the renewing of your Ladyſhips <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ief, for the loſs of ſo excellent a Daughter, whom,
+<pb facs="tcp:36393:4"/>tho I never had the honour to know, yet I have hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my dear Friend Mr. <hi>Pritchard,</hi> ſpeak ſo often <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo great Things of her, that (conſidering his ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cerity and great averſion to Flattery,) I am confide<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Character here given of her, is true. I ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſume to make any addition to it, tho perhaps it mig<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſaid, that ſhe as far exceeded the Character, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others fall ſhort of it.</p>
+            <p>All that I ſhall further add, is to let the World kno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how much they are obliged to your Ladyſhip, who <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your own good Example, and wiſe Inſtructions, and car<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ful Education of your Daughter, in the ways of Religi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Virtue, has furniſh'd them with ſo excellent a P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tern, ſo worthy of their Imitation; may they all follow here, and be happy hereafter.</p>
+            <closer>
+               <hi>I am,</hi>
+               <salute>MADAM,</salute>
+               <signed>Your Ladyſhips moſt Humble, And most obedient Serva<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> T. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:36393:4"/>
+            <head>A <hi>Funeral Sermon.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. xiii. 14.</hi>
+                  </bibl>
+                  <p>For here have we no continuing City, but we ſeek one to come.</p>
+               </q>
+            </epigraph>
+            <p>THE Great and Allwiſe God, who is Righteous in all his Ways, and Holy in all his Works, ordereth and diſpoſeth all Things here below as he pleaſeth, directing all his providential Occurrences, how harſh or grie<g ref="char:EOLhyphen"/>vous ſoever they may ſeem to us, to very gracious and wiſe Ends and Purpoſes. Whence it is our Duty not to murmur or complain of what God doth, but to bear all Adverſities whatever befal us here, all loſſes, of what kind ſoever, even thoſe of our neareſt Relations and deareſt Friends calm<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:36393:5"/>and patiently, entirely reſigning our Wills to God's Acquieſcing in, and ſubmitting to the ſevereſt Diſpenſations of his Providence, firmly believing that they all proceed from an infinitely holy, juſt, and righteous God. 'Tis this conſideration alone, that can reſtrain us from breaking out into immo<g ref="char:EOLhyphen"/>derate and exceſſive Grief, on ſo mournful an oc<g ref="char:EOLhyphen"/>caſion as this, the Death of this moſt excellent and pious Lady, who was deſervedly dear, juſtly admi<g ref="char:EOLhyphen"/>red and highly honoured and eſteemed, by all that were ſo happy as to know her. All the uſual At<g ref="char:EOLhyphen"/>tractives of Love and Eſteem were in her in the higheſt Degree, as being complete Miſtreſs of all thoſe gentile Accompliſhments which make up what the World calls a fine Woman; a great For<g ref="char:EOLhyphen"/>tune; handſom and ingenious; modeſt and hum<g ref="char:EOLhyphen"/>ble; chearful and pleaſant; courteous and oblig<g ref="char:EOLhyphen"/>ing; a moſt entire, faithful, and faſt Friend; of a moſt incomparably ſweet and ſingularly good Humour; her Converſation very pleaſing and charming: in a word, ſtrictly Virtuous, ſmcerely Pious. Under this then ſo heavy a Stroak, under this (to us) ſo ſad a Providence, nothing is able to ſupport us, but this conſideration only, that it is God's doing. We muſt therefore, as <hi>David</hi> was, be Dumb, and not open our Mouths to complain. God hath taken her from us to him<g ref="char:EOLhyphen"/>ſelf;
+<pb n="3" facs="tcp:36393:5"/>to our great Loſs indeed, but to her inex<g ref="char:EOLhyphen"/>preſſible Advantage, ſhe being now with him whom ſhe loved with all her Heart and with all her Soul, whom ſhe ever duly and conſtantly ſerved, even with that God in whoſe preſence is Fulneſs of Joy, and at whoſe Right Hand there are Pleaſures for evermore. God was pleaſed to allot her but a ſhort time here upon Earth; (the greater is our nu<g ref="char:EOLhyphen"/>happineſs) her life was ſcarce a Span long, yet ſhe lived a great deal in this little, ſuffering none of her time to run waſt, but was always buſied in ſome Employment or other ſuitable to her Qua<g ref="char:EOLhyphen"/>lity and moſt ingenious Mind. She ſpent a great part of her time in reading the holy Scriptures, and other good Books, which might furniſh her with the moſt neceſſary and uſeful Knowledge, eſteem<g ref="char:EOLhyphen"/>ing the Knowledge of God and Religionto be ſuch, chiefly endeavouring after this, which ſhe attained to in a very great Degree; and made the beſt and trueſt Uſe of her Knowledge in Religion, by reducing it to good Practiſe, which is the Life of Religion, without which the Knowledge of it is not only vain and uſeleſs, but dangerous and hurtful; <hi>For he that knoweth his maſters will, and doth it not, ſhall be beaten with many stripes.</hi> 'Tis not the bare Knowledge of our Duty, but the Practiſe of it that maketh us happy; <hi>If ye know theſe things,
+<pb n="4" facs="tcp:36393:6"/>then happy are ye if ye do them.</hi> Thus by a con<g ref="char:EOLhyphen"/>ſcientious Practiſe of religious Duties, and by her dayly Walking with God, by a Life (tho ſhort), yet very holy and good, ſhe did excellently pro<g ref="char:EOLhyphen"/>vide for her future eternal Welfare, which was the main Care of her Life. She was very ſenſible of her uncertain State and Condition in this World; knew very well that this World was not her home, that ſhe had here no continuing City, and there<g ref="char:EOLhyphen"/>fore made it the great Buſineſs of her Life, to ſeek one to come; which made me chuſe theſe Words to Diſcourſe of at this time; which I muſt do very briefly, that I may have ſome time to ſay more of her, who is the ſad Occaſion of our now meet<g ref="char:EOLhyphen"/>ing here.</p>
+            <p>In the Words that I have read to you, I ſhall obſerve theſe Two Parts.</p>
+            <p n="1">I. The State and Condition of all Men in this Life; <hi>here we have no continuing City.</hi>
+            </p>
+            <p n="2">II. Our Hopes and Expectations as to another; <hi>we ſeek one to come.</hi>
+            </p>
+            <p>Was a Chriſtians Hope terminate in this Life, did he expect nothing beyond the Grave, we might then juſtly conclude with the Apoſtle, that <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> were <hi>of all men the moſt miſerable:</hi> But, (bleſſed
+<pb n="5" facs="tcp:36393:6"/>be our gracious God,) we have a moſt ſure Word of Prophecy informing us, and giving us the higheſt Aſſurances, and the moſt convincing Teſtimonies, that thenature of the Subject is poſſibly capable of; That there ſhall be a Future State, a Life after this, where we ſhall, afterthe few ſhort and uncertain days of this our Pilgrimage is ended, find an abiding and continuing City.</p>
+            <p n="1">I. The preſent State and Condition of all Men in this World; <hi>we have here no continuing City.</hi>
+            </p>
+            <p>Man, in this Life, is in an unquiet and trouble<g ref="char:EOLhyphen"/>ſom State, in a wandring and unſettled Condition, but a Pilgrim and a Traveller, a Stranger and a Sojourner in a foreign Land; a Truth as old as <hi>Adam</hi>'s Fall, who by his Sin diſpoſeſſed himſelf and all his Poſterity, and made us at beſt but Tenants at Will, when we might have been In<g ref="char:EOLhyphen"/>habitants; and 'tis well he did, ſince at the ſame time he brought a Curſe upon the Country, and from a Garden of Pleaſures, converted it into one of Briers and Thorns, and ſo left us to eat our Bread in the ſweat of our Brows, till we return to the Duſt from whence we were taken. God indeed was pleaſed (whether as a Favour or a Pu<g ref="char:EOLhyphen"/>niſhment, I ſhall not ſay,) to grant to him and the ſucceeding Patriarchs a longer Leaſe of Til<g ref="char:EOLhyphen"/>ling
+<pb n="6" facs="tcp:36393:7"/>the Ground, than he doth now-a-days to us; they had a longer Paſſage and Pilgrimage, and by conſequence a more tedious one, before they came unto the Country they ſought for; but ſtill they had no continuing City here, they were not immortalized upon Earth, nor exempted from the taſting of Death, or from the many Miſeries and Calamities incident to Life, but were inured to hard<g ref="char:EOLhyphen"/>ſhip and labour, evils and afflictions; and the longeſt Life of them all, before the Floud, was concluded within leſs than a Thouſand Years; after the Floud, as Sin increaſed, which firſt ſhortened our abode, ſo the days of man's Life were con<g ref="char:EOLhyphen"/>tracted, tho the evils of it were enlarged; ſo that <hi>Jacob</hi> confeſſeth, as his days were full of evil, ſo they had been few in in reſpect of his Fore<g ref="char:EOLhyphen"/>fathers, as he told <hi>Pharaoh, Gen.</hi> 47.9. <hi>the days of the years of my pilgrimage are an hundred and thirty years, few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage;</hi> but in the time of <hi>Moſes,</hi> for he is generally thought to be the <hi>Author</hi> of the, 90th. <hi>Pſalm,</hi> the account of man's Life was much ſhor<g ref="char:EOLhyphen"/>ter, much the ſame with what it now is, Three<g ref="char:EOLhyphen"/>ſcore and Ten or Fourſcore Years; but yet ſuch as was attended with Sorrow and Labour, as he
+<pb n="7" facs="tcp:36393:7"/>tells us <hi>ver.</hi> 10. of that <hi>Pſalm.</hi> But now how many Thouſands end their Pilgrimage in a far ſhorter time; how many now are cut off long before they come at that Age? do we not daily almoſt ſee or hear of many ſuddenly ſnatcht away in the very midſt and prime of their days? how infinite are the numbers of thoſe whoſe days are ſo far from being a Span long, that they will ſcarce admit of any meaſure at all, tho never ſo little? how many are carried from the Womb to the Grave? So ſhort, ſo uncertain is man's ſtay in this World, which the Holy Scriptures do fitly repreſent to us, telling us, that <hi>we are as wind, that paſſeth away and cometh not again,</hi> that <hi>we come forth like a flower and are ſoon cut down, flee away, and continue not;</hi> that man even in his beſt eſtate is altogether Vanity, man is like a thing of nought, his time paſſeth away like a Shadow, as for man his days are as Graſs as a Flower of the field ſo he flouriſheth, all Fleſh is Graſs, and all the Good<g ref="char:EOLhyphen"/>lineſs thereof is as a Flower of the field, the Graſs withereth, the Flower fadeth, becauſe the Spirit of the Lord bloweth upon it, ſurely the People is Graſs. We are often in Scripture ſaid to be Strangers and Sojourners in this World, thus the Author of this Epiſtle ſaith of all thoſe whom he had reckoned up, <hi>Chap.</hi> 11. <hi>verſe</hi> 13. that
+<pb n="8" facs="tcp:36393:8"/>
+               <hi>they were ſtrangers and pilgrims upon earth;</hi> and this he doth alſo ſay of all men in the Text; and the ſame did <hi>David</hi> acknowledge, 1. <hi>Chron.</hi> 29.15. <hi>for we are ſtrangers before thee and ſojourn<g ref="char:EOLhyphen"/>ers as all our fathers were, our days on earth are as a ſhadow, and there is none abiding.</hi> This is the common Fate of all Mankind, after a few days are paſt and gone, we muſt go to the Place from whence we ſhall not return, we muſt leave this World and go to our long home, we muſt part with all that we have here poſſeſſion of, Friends, Riches, Honours, all muſt be left; we muſt take our laſt Leave, and bid a final Adieu to all our neareſt and deareſt Relations, exchange the ſtateli<g ref="char:EOLhyphen"/>eſt Palaces, the goodlieſt Manſions, the pleaſant<g ref="char:EOLhyphen"/>eſt Seats, as well as the pooreſt and homelieſt Cottages, for a dark cold Grave. Knowing then what our preaſent Condition in this World is, that we are Strangers and Pilgrims here; let us behave our ſelves as ſuch, ſince ſuch we are in this World; here we have no fixed or ſettled Habitation, we are but Sojourners, live at ano<g ref="char:EOLhyphen"/>ther's Table, lodge under anothers Roof, and may be diſpoſſeſſed at his Pleaſure. The Years that we have here to continue are at beſt but few and ſhort; that man that lived longeſt, lived but Nine Hundred Years and upwards, and tho this may ſeem a long time to us, yet how few are
+<pb n="9" facs="tcp:36393:8"/>theſe if compared with thoſe many Millions of Ages which he ſhall live in another ſtate, nay indeed there can be no Compariſon between them, no more than between a Moment and Eternity; this World is but an Inn to receive and lodge us for a while, and that at beſt but in Booths and Tabernacles, pitched up only for a time, paſſing through this vale of Miſery, we are to uſe it as a Well, (ſaith the <hi>Pſalmiſt),</hi> only draw a little Water for our refreſhment in our Journey, but not think to make our abode here, alas! we have ano<g ref="char:EOLhyphen"/>ther and farther Journey to take, we are to ſeek another and better Country, a Chriſtian is bound for no leſs than Heaven, thither he muſt haſten and ſteer his Courſe, if he would find a place of Reſt and Safety, if he would find an abiding Ci<g ref="char:EOLhyphen"/>ty, for it will be but in vain and loſt labour to ſeek it any where elſe, there and there only, after all his Labours, he may find a Building of God, a Houſe not made with Hands, eternal in the Heavens, where he may dwell for ever. Being then but Sojour<g ref="char:EOLhyphen"/>ners upon Earth, let us as the Apoſtle exhorts, <hi>paſs the time of our ſojourning here in this world in fear;</hi> let us be careful to live well that little time we have to ſtay here, being aſſured; that upon our preſent Demeanour depends our future Condition either of eternal Happineſs or Miſery; let us lay aſide every
+<pb n="10" facs="tcp:36393:9"/>weight, and the ſin which doth ſo eaſily beſet us, and let us run with patience the race that is ſet before us, ſtriving to arrive at the ſame happy Country where thoſe antient Pilgrims who are gone before us, <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> are, that we may ſit down with them in the ſame bleſſed heavenly Kingdom; let us, like the <hi>Iſraelites,</hi> who eat the Paſſover with their Loins girt, and Staffs in their Hands, to ſignifie their readineſs to depart out of <hi>Egypt,</hi> where they were Strangers, let us like them be prepared too in Heart and Mind to leave this foreign Country where the people are ill affected towards us, for we are all here what our Forefathers were, Strangers and Sojourners, and abſent from our Country. This is the pre<g ref="char:EOLhyphen"/>ſent State and Condition of all Men in this World, <hi>we have here no continuing City.</hi>
+            </p>
+            <p>I come now to the ſecond Thing, which I obſer<g ref="char:EOLhyphen"/>ved in the Words.</p>
+            <p n="2">II. Our Hopes an Expectations as to another, <hi>we ſeek one to come.</hi>
+            </p>
+            <p>That there ſhall be a continuing City, that we ſhall, after this Life is ended, enter upon an e<g ref="char:EOLhyphen"/>ternal State, where good Men ſhall be unſpeaka<g ref="char:EOLhyphen"/>bly
+<pb n="11" facs="tcp:36393:9"/>Happy, and wicked Men unſpeakably Miſera<g ref="char:EOLhyphen"/>ble, I ſhall not doubt ye ſo little Chriſtians as to ſtand to prove, Life everlaſting being an Arti<g ref="char:EOLhyphen"/>cle of our Creed, which we all profeſs to believe; taking therefore that for granted which Chriſtia<g ref="char:EOLhyphen"/>nity commands you to believe, and which the time now forbids me to inſiſt on the Proof of, I ſhall only deduce this one practical Inference.</p>
+            <p>Since we have here no continuing City, but look for an abiding City, an eternal State hereafter, let us prepare for it, and to quicken our diligence in this ſo important an Affair, conſider that this Life, as ſhort and as uncertain as it is, is the only time we have to ſeek this abiding City which we look for; 'tis here alone we muſt ſeek this City, 'tis here we muſt ſecure to our ſelves an happy Eternity or no where; when this life ends, when we are in the Grave, it will be too late: there, as <hi>Solomon</hi> aſ<g ref="char:EOLhyphen"/>ſureth us, <hi>is no work, counſel nor device in the grave,</hi> whither we are going; that, as <hi>Job</hi> deſcribeth it, <hi>is a land of darkneſs itſelf, and of the ſhadow of death without any order, and where the light is as dark<g ref="char:EOLhyphen"/>neſs.</hi> No delay therefore is to be admitted; ſure I am, there is nothing ſo well deſerveth our Care as this, this is our main Concern, the chief Buſineſs of our Lives, and ſhall we then neglect it? ſhall we
+<pb n="12" facs="tcp:36393:10"/>drudge, toil and labour, to make Proviſion for a ſhort frail Life? And ſhall we do nothing at all, take no care for a long eternal one? ſhall we mind Time and diſregard Eternity? This one would think is ſuch e<g ref="char:EOLhyphen"/>gregious Folly, as no rational Creature could poſ<g ref="char:EOLhyphen"/>ſibly be guilty of: but alas we ſee how buſie Men generally are about the things of this Life, and how they ſcarce trouble their Heads with the Thoughts of another; how vainly do moſt Men deceive themſelves with the Hopes of a long Life, thinking they ſhall have time enough hereafter to ſeek this abiding City? But to cure if poſſible ſuch Mens fond Preſumption, let them conſider what I before ſaid of the uncertainty of our State in this World, let 'em conſider how ſhort, how frail a thing Life is; <hi>What is your Life,</hi> ſaith S. <hi>James, it is a va<g ref="char:EOLhyphen"/>pour that appeareth for a little time and then vaniſheth,</hi> quickly doth it paſs away, ſoon is it gone: where<g ref="char:EOLhyphen"/>fore ſo weighty an Affair as this ought not to be put off to ſo uncertain a thing: flatter not then thy ſelf, O vain Man, that becauſe thou art now Young and Luſty, in perfect Health and Sound<g ref="char:EOLhyphen"/>neſs, that therefore thou haſt yet many years to live, and that it will be time enough in thy old Age, when thy Strength is decayed and thy Days are almoſt expired, to ſeek this City; for thou ſeeſt many as Young and as likely to live in the
+<pb n="13" facs="tcp:36393:10"/>World as thy ſelf, ſuddenly ſnatcht away, and carried into the other World in the very midſt and prime of their Days; and how knoweſt thou O preſumptuous Man! what aſſurance haſt thou, it may not be thy own Condition? When thou ſeeſt or heareſt daily of Thouſands that fall be<g ref="char:EOLhyphen"/>ſides thee, and Ten Thouſands at thy Right Hand; what ſecurity haſt thou that the Arrows of Death ſhall not come nigh thee to ſtrike thee? What Seal haſt thou upon thy Door, that the deſtroying Angel ſhould paſs by thy Habitation, as he did thoſe of the <hi>Iſraelites</hi> of old, and deſtroy thee not? Neglect nor then ſo great a Concern, hazard not thine eternal State at ſo great an un<g ref="char:EOLhyphen"/>certainty; thou knoweſt not but that this frail life of thine may end, before this Work be done; and then with what Dread and Horror wilt thou leave this World, having nothing to comfort thee at thy dying Hour, no hope of any Happineſs in another Life, but dreadful Apprehenſions of thoſe grievous Torments which thou muſt there ſuffer for ever? how wilt thou then bewail thy Folly, and when it is too late, wiſh that thou hadſt taken care to have provided for thy eternal State? Now them; while thou haſt time take care of this great Concern, and prevent what will otherwiſe undoubtedly be thy diſmal Fate; none of us all
+<pb n="14" facs="tcp:36393:11"/>but muſt be ſenſible that our time paſſeth away apace, that the Day of our Death haſtens; it then greatly concerneth us all to prepare for that E<g ref="char:EOLhyphen"/>ternity which is drawing nigh; how ſoon we may launch forth into that vaſt Ocean we know not, ere long we are ſure we muſt; let us not then delay our preparing for it, but what we do let us do quickly and with all our Might.</p>
+            <p>I have done with the Text; and come now as may moſt juſtly be expected, to ſpeak of this moſt highly deſerving Lady, to whom we are now paying our laſt Reſpects; who is now quickly to be laid in her Bed of Duſt, there to repoſe 'till that great Day cometh, when all that ſleep in the Duſt of the Earth ſhall be awaken<g ref="char:EOLhyphen"/>ed and called forth, when all the Dead ſhall be brought to Life again; then ſhall ſhe be raiſed from thence, and her Body being made immor<g ref="char:EOLhyphen"/>tal, incorruptible and glorious, ſhall be reunited to her Soul, never to be ſeparated from it any more, but to continue together both Body and Soul, in unſpeakable Felicity and Glory.</p>
+            <p>I have ever declared my ſelf no friend to Fu<g ref="char:EOLhyphen"/>neral Encomiums, nor ſhould any thing have prevail'd with me to give one now, but the ex<g ref="char:EOLhyphen"/>traordinary Merit of this deceaſed Lady, to whom
+<pb n="15" facs="tcp:36393:11"/>I ſhould be highly injurious ſhould I refuſe it. I know very well how difficult a thing it is to give a Character of any Perſon which ſome or other will not be diſpleaſed with, but this muſt not diſcourage me. I ſhall ſay nothing but what I my ſelf knew to be true, or have had from very credible Hands.</p>
+            <p>This Lady was deſcended, as is known to ma<g ref="char:EOLhyphen"/>ny in this Auditory, from very worthy Parents, her Father Sir <hi>Jonathan Dawes,</hi> a wealthy Merchant, an eminent and well known Citizen, her Mother one of the Daughters of Sir <hi>Thomas Bendiſh,</hi> a very antient Baronet in this Neighbourhood. Her Education was ſuitable to her Extraction, which her pious Mother (her Father dying when ſhe was very young) took great care of, educating her gentilely and virtuouſly, in all thoſe fine Accom<g ref="char:EOLhyphen"/>pliſhments which became her Sex, which ſhe im<g ref="char:EOLhyphen"/>proved to the utmoſt; but that which I chiefly remark, is, her being betimes acquainted with God, her being early inſtructed in Religion which grew up with her, which being happily accuſtomed to, ſhe made it her daily Employment, finding a great deal of Pleaſure, Satisfaction, and Sweetneſs in it; experiencing, <hi>that all its ways are ways of pleaſantneſs, and all its paths peace,</hi> being trained up
+<pb n="16" facs="tcp:36393:12"/>when a Child in the way ſhe ſhould go, ſhe did not depart from it: and this was it which did exceedingly Adorn and Beautifie her far beyond what the fineſt Accompliſhments could do, tho ſhe had them in as great a degree as any, Religion giving her a greater Grace and Luſtre than all things elſe beſides. She was bleſ<g ref="char:EOLhyphen"/>ſed with great Endowments of Mind; ſhe was a Lady of very great and extraordinary Parts, high<g ref="char:EOLhyphen"/>ly Ingenious, of quick Apprehenſion, of firm Memory, and of moſt ſolid Judgment; ſhe had a moſt curious and fine way both of Speaking and Writing, the one all know that ever had the Ho<g ref="char:EOLhyphen"/>nor to Converſe with her, and ſhe hath left la<g ref="char:EOLhyphen"/>ſting Monuments of her great Abilities in the other; ſhe was a moſt obedient and dutiful Daughter, ſhe was of a very generous and charitable Diſpo<g ref="char:EOLhyphen"/>ſition, which ſhe expreſt upon all fit Occaſions, and particularly at her Death, by that liberal and conſiderable Legacy which ſhe gave to the Poor: All which joyned with her great Piety, made her an Ornament to her Sex, and a Pattern moſt worthy of Imitation.</p>
+            <p>I ſhould be tedious if I ſhould but barely men<g ref="char:EOLhyphen"/>tion all thoſe things that were Commendable in her, but I muſt contract, and what I have far<g ref="char:EOLhyphen"/>ther
+<pb n="17" facs="tcp:36393:12"/>to add, I ſhall compriſe under theſe Three Heads.</p>
+            <p>
+               <hi>Modeſty, Humility, Piety,</hi> every one of which ſhe was very eminent for.</p>
+            <p>Firſt, <hi>Modeſty.</hi> This is a great and becom<g ref="char:EOLhyphen"/>ing Virtue, very commendable in all of both Sexes, but more eſpecially ſo in the fair Sex, whom it maketh very amiable and deſireable, being high<g ref="char:EOLhyphen"/>ly prized by all ſober Perſons; with which Vir<g ref="char:EOLhyphen"/>tue this Lady was moſt eminently adorned, be<g ref="char:EOLhyphen"/>ing extremely Modeſt; having a perfect abhor<g ref="char:EOLhyphen"/>rence, and utter averſion to any thing that might but ſeem to treſpaſs upon it; never being able, without the greateſt Deteſtation, to hear any Diſ<g ref="char:EOLhyphen"/>courſe that had the leaſt tendency to Levity or Wantonneſs, which Virtue is the greater in this looſe and diſſolute Age, when too many have laid it aſide, as a very unneceſſary and troubleſom thing. All her Diſcourſes, all her Behaviour, all her Acti<g ref="char:EOLhyphen"/>ons were guided by the ſtricteſt Rules of Mo<g ref="char:EOLhyphen"/>deſty. Such was her <hi>Modeſty.</hi>
+            </p>
+            <p>Secondly, <hi>Humility.</hi> A moſt excellent Chriſtian Grace which procureth to the Perſon that hath it favour both from God and Man; the humble God
+<pb n="18" facs="tcp:36393:13"/>beareth an eſpecial Regard to, and hath a parti<g ref="char:EOLhyphen"/>cular Care of; <hi>tho</hi> (ſaith the <hi>Pſalmiſt</hi>) <hi>the Lord be high, yet hath he reſpect unto the lowly, but the proud, he knoweth afar off;</hi> and ſaith the Prophet, <hi>Iſa.</hi> 57.15. <hi>Thus ſaith the high and lofty One, he that inhabiteth eternity, whoſe name is Holy, I dwell in the high and holy place; with him alſo that is of an humble ſpirit;</hi> of which eſpecial Favour we we have reaſon to believe this truly humble Soul did partake; who, tho none was more deſerving, yet none had a lower opinion of themſelves than ſhe; ſhe always thought meanly of herſelf, yet was ſhe free from that abject Meanneſs of Spi<g ref="char:EOLhyphen"/>rit which ſome miſcal Humility, none could have more to puff them up than ſhe had, but ſhe ve<g ref="char:EOLhyphen"/>ry well knew how great a Folly it is to be proud of any thing, ſince all that we have we receive from God; and why then ſhould we boaſt as tho we had not received? Her care was to improve well the Talents God entruſted her with to his Glory, from whom ſhe thankfully acknowledg<g ref="char:EOLhyphen"/>ed, ſhe received whatever good Thing ſhe had; in this, following the great Pattern of Humility, our Bleſſed Saviour, who, when by the mighty Works he had wrought, he had gained the Ap<g ref="char:EOLhyphen"/>plauſe and Admiration of the People, he did what he could to avoid them, aſcribing to God the Fa<g ref="char:EOLhyphen"/>ther
+<pb n="19" facs="tcp:36393:13"/>the Power by which he wrought them, ſay<g ref="char:EOLhyphen"/>ing, <hi>the Father that dwelleth in me, he doth the works.</hi> So would this humble Soul, not to take to her<g ref="char:EOLhyphen"/>ſelf the praiſe of any thing, but aſcribe all to the Grace of God. There is nothing more peculiar to, or more becoming a Chriſtian, than Humility; it was this Leſſon which our Bleſſed Lord ſingled out from all others, and which he calls upon us to learn of him; <hi>learn of me, for I am meek and lowly in heart:</hi> which Leſſon ſhe had per<g ref="char:EOLhyphen"/>fectly learnt; ſhe was, to uſe the Apoſtle's Phraſe, clothed with Humility, the humble Diſciple of an humble Saviour, the ſame Mind; that is, the ſame lowly Frame and Temper of Spirit which was in Chriſt Jeſus, was, as the Apoſtle requireth ſhould be in us, in her alſo. Such was her <hi>Humili<g ref="char:EOLhyphen"/>ty.</hi>
+            </p>
+            <p>Laſtly, <hi>Piety.</hi> This is that which the Apoſtle tells us hath the Promiſe of the life that now is, and of that which is to come, intitling men to the happineſs of both Worlds; and tho God for very good Reaſons, may ſometimes give but lit<g ref="char:EOLhyphen"/>tle of this world's Happineſs to ſome that are tru<g ref="char:EOLhyphen"/>ly Pious, (God's Promiſes of temporal Felicity being conditional only), yet they ſhall be ſure to be abundantly compenſated in the other World
+<pb n="20" facs="tcp:36393:14"/>for what they come ſhort of here in this; there they ſhall be ſure not to loſe their Reward. <hi>Oh how great things</hi> (ſaith the <hi>Pſalmiſt</hi>) <hi>are thoſe which thou haſt prepared for them that fear thee! ſuch they are as eye hath not ſeen, nor ear heard, neither hath it entred into the heart of man to conceive.</hi> A fair and ſufficient encouragement to Piety, which this Lady did in a moſt exemplary manner practiſe; whoſe Piety was of the right Stamp, not formal, but real, not by Fits and Starts only, but con<g ref="char:EOLhyphen"/>ſtant and uninterrupted, not partial, picking and chuſing ſome of Gods Commandments, and diſ<g ref="char:EOLhyphen"/>regarding the reſt, but univerſally having Reſpect to all God's Commandments. She daily ſet a<g ref="char:EOLhyphen"/>part a portion of her time for the ſervice of God, which ſhe ſpent in Prayer, reading the holy Scriptures and other good Books, Meditation, <hi>&amp;c.</hi> and if ſhe was at any time prevented by Company, or Diverſions, (which were always harmleſs and in<g ref="char:EOLhyphen"/>nocent,) or by any other unavoidable Accident, ſhe would be ſure to make it up at another, and would not rob God and her Soul of the time ſet apart for them: And well were it if all Perſons of Quality, the Plentifulneſs of whoſe Eſtates free<g ref="char:EOLhyphen"/>ing them from thoſe mean Employments, which Perſons of lower Rank are buſied in, and ſo ha<g ref="char:EOLhyphen"/>ving more leiſure and time to ſpare, would de<g ref="char:EOLhyphen"/>vote
+<pb n="21" facs="tcp:36393:14"/>a greater ſhare of their time to God and their Souls, as certainly if they conſider it they muſt acknowledge they ought to do, for the more liberal and bountiful God hath been to them, the more thankful they ought to be unto him. Beſides, her private Devotions, which I believe ſhe never omitted, ſhe never failed to be at the Prayers of the Family; unleſs ſhe was hindred by Sickneſs, or was abroad, which ſhe ſeldom was at Prayer time, ſo that I can ſcarce remember that ever ſhe was abſent, be<g ref="char:EOLhyphen"/>having herſelf very devoutly and reverently with all imaginable Fervency, and the moſt profound Humility, putting up her Prayers to God, pre<g ref="char:EOLhyphen"/>ſenting them at the Throne of Grace in ſuch a de<g ref="char:EOLhyphen"/>cent Manner, in ſuch a lowly Poſture of Body as becometh Supplicants, and as the infinite Ma<g ref="char:EOLhyphen"/>jeſty of that God to whom we pray doth require: and as frequent was ſhe at the Publick Prayers of the Church, which ſhe continually attended, nay would often go when her Health would ill ad<g ref="char:EOLhyphen"/>mit of it, being deſirous to omit no op<g ref="char:EOLhyphen"/>portunity of ſerving God in his own Houſe, his Houſe of Prayer, where ſhe was wholly intent on the Duty ſhe was about, joining with the greateſt Devotion and Earneſtneſs; and at Ser<g ref="char:EOLhyphen"/>mon time, as I have obſerved when I have oc<g ref="char:EOLhyphen"/>caſionally
+<pb n="22" facs="tcp:36393:15"/>Preached here, ſhe was a very diligent, ſerious and attentive Hearer; and as ſhe was thus conſtant at the Publick Prayers of the Church and Sermon, ſo was ſhe alſo at the Holy Com<g ref="char:EOLhyphen"/>munion, which to the end of her Life ſhe fre<g ref="char:EOLhyphen"/>quented, having received the Holy Sacrament at Church on <hi>Christmas day,</hi> the laſt opportunity ſhe had of receiving thoſe bleſſed Viands; which Du<g ref="char:EOLhyphen"/>ty ſhe never went about Heedleſly or Inconſide<g ref="char:EOLhyphen"/>rately, but uſed the greateſt Care and Diligence poſſible to fit herſelf for it, always ſetting apart ſome time for Preparation, practiſing the Apo<g ref="char:EOLhyphen"/>ſtles Advice, examining herſelf, and that ſtrictly too, before ſhe would preſume to eat of that Bread and drink of that Cup, which ſhe did with a Devotion and Reverence ſuitable to that great and holy Duty. Such was her <hi>Piety.</hi>
+            </p>
+            <p>Which is the more commendable becauſe it was an early one, ſhe remembred her Creator betimes in the Days of her Youth, devoting the beſt and prime of her Days to his Service; a juvenile Pie<g ref="char:EOLhyphen"/>ty is moſt acceptable unto God, <hi>I love thoſe that love me,</hi> ſaith God, <hi>and they that ſeek me early ſhall find me;</hi> the truth of which gracious Promiſe, I be<g ref="char:EOLhyphen"/>lieve this Pious Soul doth now experience: the Comfort which the remembrance of her well-ſpent
+<pb n="23" facs="tcp:36393:15"/>Life gave her, ſupported her under all her Sickneſs, which made her not only not afraid to Die, but if it were Gods Will to deſire that ſhe might die; which ſhe deſired, not out of any Im<g ref="char:EOLhyphen"/>patience for what ſhe ſuffer'd, or out of any Diſcon<g ref="char:EOLhyphen"/>tent or Diſſatisfaction, but as ſhe herſelf aſſured me when I viſited her in her Sickneſs, out of a firm Hope ſhe had, that God would pardon her Sins through the Merits of Chriſt, by whoſe alone Merits ſhe hoped for it; and that God, of whoſe Favour ſhe had a well-grounded Aſſurance, would beſtow upon her thoſe great and unconceivable Felicities of the other World, which ſhe ſtedfaſtly believed, and hoped through the Mercy of God, and Merits of Chriſt to partake of: it was this which made her deſire to be Diſſolv'd, that ſhe might be with God and Chriſt, which is beſt of all; or to give it you in her own Words, from a Letter which ſhe left to comfort a dear Relation un<g ref="char:EOLhyphen"/>der this ſo great a Loſs, having ſpoke in that with ſome certainty of her future Happineſs, ſhe thus ſaith, <hi>I ſpeak not with this Confidence of my future Felicity, through any opinion of my own Virtue and Goodneſs; alas! no, I am deeply ſenſible of my Deficiency in both, and that I deſerve nothing but eternal Puniſhment, but all my Dependence is on the Merits of my Saviour, who, I hope will never caſt off a Soul to whom he hath
+<pb n="24" facs="tcp:36393:16"/>given the Grace to truſt in him; this is the ground of my Aſſurance, which (though perhaps attended with ſome Fears,) is ſtill maintained, by meditating on the boundleſs Clemency of my Creator and Redeemer.</hi> Theſe are her own Words; it was this which made her ſo willing to die, having that to cheer her, which is the greateſt Comfort we can have when we come to die, that ſhe was exchanging this ſhort troubleſom Life, for a bleſſed Eter<g ref="char:EOLhyphen"/>nal one.</p>
+            <p>It pleaſed God to viſit her with a long and tedious Sickneſs, (ſo God often treats his moſt faithful Servants, <hi>whom I love, I rebuke and chaſten, and whom the Lord loveth he chaſteneth, and ſcourgeth every ſon whom he receiveth.</hi>) tho her Sickneſs was ſevere and long, tho ſhe endured much Pain, and had many weary and reſtleſs Nights, yet did no one ever hear a murmuring and complaining Word from her, but looking up to God, and conſidering that it was he that afflicted her, ſhe quietly and patiently ſubmitted herſelf to his cor<g ref="char:EOLhyphen"/>recting Hand: God having thus made trial of her Graces, which in her Sickneſs ſhe had an oppor<g ref="char:EOLhyphen"/>tunity of exerciſing, ſhe having now finiſhed her Courſe, having faithfully ſerved God, and ſecur'd her eternal State, God finding her ripe for Glory,
+<pb n="25" facs="tcp:36393:16"/>would no longer delay her Happineſs, but took her unto himſelf, from Earth to Heaven, from Pain, Miſery and Trouble, to Reſt, Immorta<g ref="char:EOLhyphen"/>lity and Glory: her Life ended with the Year, and ſhe began the New one in the other better World, where is no Pain, nor Sorrow, nor Sickneſs, nor Diſeaſes, nor Death, where ſhe ſhall die no more but live in the greateſt Happineſs for ever. And now having ſuch juſt cauſe to hope, that her Spi<g ref="char:EOLhyphen"/>rit is with God that gave it, that ſhe is in an eter<g ref="char:EOLhyphen"/>nally happy State, why ſhould we weep? weep for her we muſt not, but for our ſelves who only are the Looſers; yet conſidering that our Loſs is her Gain, let us moderate our Grief, and dry up our Tears, <hi>and ſorrow not, as men without hope for her that ſleepeth in Jeſus,</hi> whom God at the laſt day will undoubtedly bring with him; it will be an ill expreſſion of our Kindneſs to her, immoderate<g ref="char:EOLhyphen"/>ly to bewail her Death, which to her is but a paſ<g ref="char:EOLhyphen"/>ſage into a glorious Eternity; it will look as if we envied her that Happineſs ſhe is is now poſſeſ<g ref="char:EOLhyphen"/>ſed of; to uſe her own conſolatory Words, let not her Joy be the cauſe of our Sorrow, ſince as ſhe ſaith, ſhe took no Delight in this World; we ought to eſteem it a Mercy rather than a Judgment, that God hath taken her to a better, even to that Worldon which her Affections were wholly plac'd,
+<pb n="26" facs="tcp:36393:17"/>where ſhe frequently was while ſhe was here upon Earth, by her holy Thoughts and devout Medi<g ref="char:EOLhyphen"/>tations; by theſe ſhe had her Converſation in Heaven.</p>
+            <p>And now that theſe Remains of her are imme<g ref="char:EOLhyphen"/>diately to be laid into the Earth, and hid from our Eyes for ever; tho ſhe be thus wholly taken from us, yet let her Memory, as deſervedly it ought, be ever precious unto us, let her Name be always mentioned with Honour and Reſpect, let us imi<g ref="char:EOLhyphen"/>tate her holy and pious Life, let us follow her as ſhe followed Chriſt, that ſo at that great Day when we ſhall all be raiſed out of our Graves and called to Judgment, we may meet together again, and take no more ſorrowful Farewels of one ano<g ref="char:EOLhyphen"/>ther, but dwell for ever without parting any more, ſpending an Eternity together in ſinging Halelujahs and Songs of Praiſe, to our gracious Creator and Redeemer, who hath brought us to the poſſeſſion of ſuch unſpeakable and endleſs Felicities.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36393:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
